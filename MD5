@@ -1,0 +1,14 @@
+c71678ce80280bb22242aaf154c5b0d2 *DESCRIPTION
+04eda5d5896cfcf9845d5e190af140eb *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+4fb556712ed927f116f27acbb2c33da1 *NEWS.md
+824fec01324acafae6d385f9ac6e5974 *R/check_contrast.R
+924628a54fbf2e1d66c9b3ba95e882a2 *R/check_contrast_raw.R
+225378c01a2eba218457b2eda565129a *README.md
+9dd14c0f76b5ca29b18decb8248cdf6b *man/check_contrast.Rd
+cd545453d785f8f0bd423b9257bbf137 *man/check_contrast_raw.Rd
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+175d7c05957bcb1d210882e2ddce1e87 *man/figures/README-unnamed-chunk-3-1.png
+79fb0285c961bf53f2df9a677bff9ea8 *man/figures/README-unnamed-chunk-6-1.png
+6620dcefb79678f6d6b2930d42c1d258 *tests/testthat.R
+80ab9cdbbee64ec84b5e65ad60347483 *tests/testthat/test-check_contrast.R
